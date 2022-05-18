@@ -2,7 +2,7 @@
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 
 [clone url'si]
-(https://github.com/muhammedlutfiates/kodluyoruzilkrepo.git)
+(git clone https://github.com/muhammedlutfiates/kodluyoruzilkrepo.git)
 
 # **Usage**
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
