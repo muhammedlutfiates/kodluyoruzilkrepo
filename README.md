@@ -21,7 +21,7 @@ function hellow world (){
     console.log("hello world")
 }
 ```
-[Link](https://patika.dev)
+[patika.dev](https://patika.dev)
 
 
 
