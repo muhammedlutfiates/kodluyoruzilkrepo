@@ -6,7 +6,8 @@ Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 ```
 
 # **Usage**
-Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
+Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz. 
+
 Linux icin:
 
 ```
