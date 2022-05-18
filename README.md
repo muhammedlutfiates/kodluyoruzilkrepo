@@ -1,7 +1,6 @@
 # **Installation**
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 
-[clone url'si]
 (git clone https://github.com/muhammedlutfiates/kodluyoruzilkrepo.git)
 
 # **Usage**
