@@ -1,27 +1,17 @@
-# Baslik 1
-## Baslik 22
-### Baslik 333
+# **Installation**
+Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 
-- list item 1 
-* list item 2
+[clone url'si]
+(https://github.com/muhammedlutfiates/kodluyoruzilkrepo.git)
 
-*italic*
-**bold**
-***bolditalic***
+# **Usage**
+Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 
-![Lorem Picsum Gorsel](https://picsum.photos/200/300)
+# **Contributing**
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-```python
-print("hello world")
-```
-
-```javascript
-console.log("hello world")
-function hellow world (){
-    console.log("hello world")
-}
-```
-[patika.dev](https://patika.dev)
+# **License**
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
